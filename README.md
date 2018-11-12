@@ -1,4 +1,4 @@
-# flask-
+# Flask
 This repository contains assignments solved using flask.
 Temperature
 
